@@ -1,6 +1,7 @@
 def join_nested_strings(src)
   row_index = 0
   while condition
+    
     string = ""
     element_index = 0
     while condition
