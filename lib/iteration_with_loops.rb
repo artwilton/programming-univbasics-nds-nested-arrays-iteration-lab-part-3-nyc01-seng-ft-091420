@@ -5,7 +5,7 @@ def join_nested_strings(src)
     string = ""
     element_index = 0
     while element_index < src[row_index].count do
-      if 
+      if src[row_index][element_index] ==  
       new_array.push(string)
       element_index += 1
     end
